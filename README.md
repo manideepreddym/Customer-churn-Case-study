@@ -101,8 +101,8 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 ## Place Your Model File:
-
-Ensure that your pre-trained model file (Model.pkl) is in the specified path: E:\\projects\\End-to-end-project---Customer-churn-main\\Model.pkl.<br>
+```bash
+Ensure that your pre-trained model file (Model.pkl) is in the specified path: E:\\projects\\End-to-end-project---Customer-churn-main\\Model.pkl.
 Adjust the model_path variable in app.py to match the location of your model file if necessary.
 
 ## Run the Application
